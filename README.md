@@ -4,7 +4,7 @@
 
 - 📝 To check articles on [https://medium.com/@neupane.krishna33](https://medium.com/@neupane.krishna33)
 
-- 📫 Reach me on **https://krishnaneupane.com/#/contact**
+- 📫 Reach me on **https://krishnaneupane.com/contact**
 
 
 <h3 align="left">Connect with me:</h3>
